@@ -10,17 +10,19 @@ This is a Telegram bot that collects user feedback on different products. Users 
 
 ## Installation
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/nigmatovdev/telegram-feedback-bot.git
    cd telegram-feedback-bot
+```
 2. Install the required Python packages:
-  ```bash
+```bash
   pip install -r requirements.txt
-  ```
+```
 3. Create a creds.json file with your Google Cloud service account credentials:
 4. Run the bot
-   ```bash
+```bash
    python bot.py
+```
     
 ## Usage
 1. Start the bot by sending /start in your Telegram chat with the bot.
